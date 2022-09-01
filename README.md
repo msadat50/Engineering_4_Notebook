@@ -59,7 +59,7 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 [Hyperlink text](http://www.google.com)      
 
 ### Test Image
- [Hyperlink text](raspberry-pi/temp.py)
+ [Hyperlink text](raspberry-pi/test.py)
 
 ### Test GIF
 [funny cat](https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/funny%20cat.gif?raw=true) 
