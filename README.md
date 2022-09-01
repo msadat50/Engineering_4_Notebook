@@ -53,10 +53,13 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ## Media Test
 
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
+Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!  
 
 ### Test Link
+[Hyperlink text](http://www.google.com)      
 
 ### Test Image
+ [Hyperlink text](raspberry-pi/temp.py)
 
 ### Test GIF
+[funny cat](https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/funny%20cat.gif?raw=true) 
