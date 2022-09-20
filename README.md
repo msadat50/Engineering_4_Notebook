@@ -44,6 +44,7 @@ In this assignment we're setting a Countdown from 10 seconds to 0 (liftoff), Whi
 ### Wiring
 
 ### Reflection
+This assingment was confusing because in other assignment there was example code, so that would help you do this assignment. In this assignment we did research and Mr. Miller helped me figure it out.  
 
 
 
@@ -59,6 +60,7 @@ In this assignment we're making blink a red light each second of the countdown, 
 ### Wiring
 
 ### Reflection
+This assignment was not as confusing as the first one because there was visuals that helped me understand it.Still I had trouble doing with the visual app which made it hard for me to do the assignment,but Mr. Miller helped me out.Other then that everything else was good. 
 
 
 ## Launch_Pad_Part_3_"Button"
