@@ -4,30 +4,94 @@
 
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Pi Pico Introduction](Pi_Pico_Introduction)
+* [Launch Pad Part 1 "Countdown"](Launch_Pad_Part_1_"Countdown")
+* [Launch Pad Part 2 "Lights"](Launch_Pad_Part_2_"Lights")
+* [Launch Pad Part 3 "Button"](Launch_Pad_Part_3_"Button")
+* [Launch Pad Part 4 "Servo"](Launch_Pad_Part_4_"Servo")
+
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
 
 ## Raspberry_Pi_Assignment_Template
 
-### Assignment Description
+## Pi_Pico_Introduction
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+### Assignment Description
+In this assignment we're trying to make the raspberry Pi board LED bilnk. 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Pi Pico-gif-maker](https://user-images.githubusercontent.com/71345399/191327129-72adf5b8-460c-4e48-affd-b9e08c7d6826.gif)
+
+### Code
+Here is the link of my code [board blinking code](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LED_blink.py).
+
+### Reflection
+This assignment was so super simple and easy. I had a little bit of trouble doing the while true loop, but Mr. Miller helped me do that. 
+
+
+## Launch_Pad_Part_1_"Countdown"
+
+### Assignment Description
+In this assignment we're setting a Countdown from 10 seconds to 0 (liftoff), Which will be printed in serial monitor.
+
+### Evidence 
+
+### Code
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+### Reflection
+
+
+
+## Launch_Pad_Part_2_"Lights"
+
+### Assignment Description
+In this assignment we're making blink a red light each second of the countdown, and then turn on a blue LED to signify liftoff.
+
+### Evidence 
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+### Wiring
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+## Launch_Pad_Part_3_"Button"
+
+### Assignment Description
+In this assignment we're adding a physical button that will starts the countdown. 
+
+### Evidence 
+
+### Code
+
+### Wiring
+
+### Reflection
+
+
+## Launch_Pad_Part_4_"Servo"
+
+### Assignment Description
+In this assihgnment we're adding a servo, which will trun 180 when the countdown is over, the blue LED will trun on.
+
+### Evidence 
+
+### Code
+
+### Wiring
+
+### Reflection
+
+
+
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 &nbsp;
 
