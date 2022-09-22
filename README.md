@@ -38,8 +38,12 @@ This assignment was so super simple and easy. I had a little bit of trouble doin
 In this assignment we're setting a Countdown from 10 seconds to 0 (liftoff), Which will be printed in serial monitor.
 
 ### Evidence 
+   
+https://user-images.githubusercontent.com/71345399/191816319-344fd81f-a5a2-4d6d-a9ed-5cc31f601386.mov
+
 
 ### Code
+Here is the link of my code [countdown](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/countdown)
 
 ### Wiring
 
@@ -55,7 +59,10 @@ In this assignment we're making blink a red light each second of the countdown, 
 
 ### Evidence 
 
+https://user-images.githubusercontent.com/71345399/191817284-23716993-87e1-4b8b-a8ed-d67b1523f14b.mov
+
 ### Code
+Here is the link of my code [countdown](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20pad%20part%202%20making%20both%20LED%20blink)
 
 ### Wiring
 
@@ -70,11 +77,15 @@ In this assignment we're adding a physical button that will starts the countdown
 
 ### Evidence 
 
+https://user-images.githubusercontent.com/71345399/191817995-c1ba5739-1ba9-4607-a66a-e66bfad77622.mov
+
 ### Code
+Here is the link of my code [Button](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchpadButton)
 
 ### Wiring
 
 ### Reflection
+This assignment was super easy. All I had to do is copy and paste, the only thing that made me confuse was the wiring for button, I wasn't sure if I need to witing the button using a pin. 
 
 
 ## Launch_Pad_Part_4_"Servo"
@@ -84,11 +95,15 @@ In this assihgnment we're adding a servo, which will trun 180 when the countdown
 
 ### Evidence 
 
+https://user-images.githubusercontent.com/71345399/191818717-ed0539e2-e012-43cc-8e8a-0d1c59c8fe75.mov
+
 ### Code
+Here is the link of my code [Servo](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPadServo)
 
 ### Wiring
 
 ### Reflection
+I didn't had any trouble doing this assignment, I jhust some typo in the code. 
 
 
 
