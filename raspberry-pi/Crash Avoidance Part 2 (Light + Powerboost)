@@ -1,0 +1,32 @@
+import adafruit_mpu6050 
+import busio
+import board
+import digitalio 
+
+ledred=digitalio.DigitalInOut(board.GP15)
+ledred.direction=digitalio.Direction.OUTPUT
+sda_pin=board.GP16
+scl_pin=board.GP17
+i2c = busio.I2C(scl_pin, sda_pin)
+
+mpu = adafruit_mpu6050.MPU6050(i2c)
+while True:
+    print ( mpu.acceleration)
+    if mpu.acceleration[0] > 9:
+        ledred.value=True 
+        print ( mpu.acceleration[0])
+        ledred.value=False
+    if mpu.acceleration[0] < -9:
+        ledred.value=True 
+        print ( mpu.acceleration[0])
+        ledred.value=False
+
+    if mpu.acceleration[1] > 9:
+        ledred.value=True 
+        print ( mpu.acceleration[0])
+        ledred.value=False
+    if mpu.acceleration[1] < -9:
+        ledred.value=True 
+        print ( mpu.acceleration[0])
+        ledred.value=False
+    
