@@ -9,6 +9,10 @@
 * [Launch Pad Part 2 "Lights"](Launch_Pad_Part_2_"Lights")
 * [Launch Pad Part 3 "Button"](Launch_Pad_Part_3_"Button")
 * [Launch Pad Part 4 "Servo"](Launch_Pad_Part_4_"Servo")
+* [Crash Avoidance Part 1 "Accelerometer"(Crash_Avoidance_Part_1_Accelerometer)
+* [Crash Avoidance Part 2 "Light and Powerboost"(Crash_Avoidance_Part_2_Light_and_Powerboost)
+* [Crash Avoidance Part 3 "OLED Screen"(Crash_Avoidance_Part_3_OLED_Screen)
+
 
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -104,6 +108,42 @@ Here is the link of my code [Servo](https://github.com/msadat50/Engineering_4_No
 
 ### Reflection
 I didn't had any trouble doing this assignment, I jhust some typo in the code. 
+
+
+## Crash_Avoidance_Part_1_Accelerometer
+
+### Assignment Description
+### Evidence 
+### Code
+Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201%20(Accelerometer)
+
+### Wiring
+### Reflection
+
+
+## Crash_Avoidance_Part_2_Light_and_Powerboost
+
+### Assignment Description
+### Evidence 
+### Code
+Here is the link of my code [Light and Powerboot](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%202%20(Light%20%2B%20Powerboost)
+
+### Wiring
+### Reflection
+
+
+## Crash_Avoidance_Part_3_OLED_Screen
+
+### Assignment Description
+### Evidence 
+### Code
+Here is the link of my code [OLED Screen]()
+
+### Wiring
+### Reflection
+
+
+
 
 
 
