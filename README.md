@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Pi Pico Introduction](Pi_Pico_Introduction)
-* [Launch Pad Part 1 "Countdown"](Launch_Pad_Part_1_"Countdown")
+* [Launch Pad Part 1 Countdown](Launch_Pad_Part_1_Countdown)
 * [Launch Pad Part 2 "Lights"](Launch_Pad_Part_2_"Lights")
 * [Launch Pad Part 3 "Button"](Launch_Pad_Part_3_"Button")
 * [Launch Pad Part 4 "Servo"](Launch_Pad_Part_4_"Servo")
@@ -36,7 +36,7 @@ Here is the link of my code [board blinking code](https://github.com/msadat50/En
 This assignment was so super simple and easy. I had a little bit of trouble doing the while true loop, but Mr. Miller helped me do that. 
 
 
-## Launch_Pad_Part_1_"Countdown"
+## Launch_Pad_Part_1_Countdown
 
 ### Assignment Description
 In this assignment we're setting a Countdown from 10 seconds to 0 (liftoff), Which will be printed in serial monitor.
