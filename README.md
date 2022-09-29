@@ -115,7 +115,7 @@ I didn't had any trouble doing this assignment, I jhust some typo in the code.
 ### Assignment Description
 ### Evidence 
 ### Code
-Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201%20(Accelerometer)
+Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201%20Accelerometer)
 
 ### Wiring
 ### Reflection
@@ -126,7 +126,7 @@ Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineer
 ### Assignment Description
 ### Evidence 
 ### Code
-Here is the link of my code [Light and Powerboot](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%202%20(Light%20%2B%20Powerboost)
+Here is the link of my code [Light and Powerboot](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%202%20Light%20%2B%20Powerboost)
 
 ### Wiring
 ### Reflection
