@@ -9,9 +9,9 @@
 * [Launch Pad Part 2 "Lights"](Launch_Pad_Part_2_"Lights")
 * [Launch Pad Part 3 "Button"](Launch_Pad_Part_3_"Button")
 * [Launch Pad Part 4 "Servo"](Launch_Pad_Part_4_"Servo")
-* [Crash Avoidance Part 1 "Accelerometer"(Crash_Avoidance_Part_1_Accelerometer)
-* [Crash Avoidance Part 2 "Light and Powerboost"(Crash_Avoidance_Part_2_Light_and_Powerboost)
-* [Crash Avoidance Part 3 "OLED Screen"(Crash_Avoidance_Part_3_OLED_Screen)
+* [Crash Avoidance 1 "Accelerometer"(Crash_Avoidance_Part_1_Accelerometer)
+* [Crash Avoidance 2 "Light and Powerboost"(Crash_Avoidance_Part_2_Light_and_Powerboost)
+* [Crash Avoidance 3 "OLED Screen"(Crash_Avoidance_Part_3_OLED_Screen)
 
 
 * [Onshape_Assignment_Template](#onshape_assignment_template)
