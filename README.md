@@ -49,8 +49,6 @@ https://user-images.githubusercontent.com/71345399/191816319-344fd81f-a5a2-4d6d-
 ### Code
 Here is the link of my code [countdown](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/countdown)
 
-### Wiring
-
 ### Reflection
 This assingment was confusing because in other assignment there was example code, so that would help you do this assignment. In this assignment we did research and Mr. Miller helped me figure it out.  
 
@@ -69,6 +67,7 @@ https://user-images.githubusercontent.com/71345399/191817284-23716993-87e1-4b8b-
 Here is the link of my code [countdown](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20pad%20part%202%20making%20both%20LED%20blink)
 
 ### Wiring
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20LED's%20pic.jpg?raw=true" width="400">
 
 ### Reflection
 This assignment was not as confusing as the first one because there was visuals that helped me understand it.Still I had trouble doing with the visual app which made it hard for me to do the assignment,but Mr. Miller helped me out.Other then that everything else was good. 
@@ -87,7 +86,7 @@ https://user-images.githubusercontent.com/71345399/191817995-c1ba5739-1ba9-4607-
 Here is the link of my code [Button](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchpadButton)
 
 ### Wiring
-
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20Button%20pic.jpg?raw=true" width="400">
 ### Reflection
 This assignment was super easy. All I had to do is copy and paste, the only thing that made me confuse was the wiring for button, I wasn't sure if I need to witing the button using a pin. 
 
@@ -105,6 +104,7 @@ https://user-images.githubusercontent.com/71345399/191818717-ed0539e2-e012-43cc-
 Here is the link of my code [Servo](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPadServo)
 
 ### Wiring
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20Servo%20pic.jpg?raw=true" width="400">
 
 ### Reflection
 I didn't had any trouble doing this assignment, I jhust some typo in the code. 
