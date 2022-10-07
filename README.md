@@ -5,15 +5,6 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Pi Pico Introduction](Pi_Pico_Introduction)
-* [Launch Pad Part 1 Countdown](Launch_Pad_Part_1_Countdown)
-* [Launch Pad Part 2 "Lights"](Launch_Pad_Part_2_"Lights")
-* [Launch Pad Part 3 "Button"](Launch_Pad_Part_3_"Button")
-* [Launch Pad Part 4 "Servo"](Launch_Pad_Part_4_"Servo")
-* [Crash Avoidance 1 "Accelerometer"](Crash_Avoidance_Part_1_Accelerometer)
-* [Crash Avoidance 2 "Light and Powerboost"](Crash_Avoidance_Part_2_Light_and_Powerboost)
-* [Crash Avoidance 3 "OLED Screen"](Crash_Avoidance_Part_3_OLED_Screen)
-
-
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -113,12 +104,19 @@ I didn't had any trouble doing this assignment, I jhust some typo in the code.
 ## Crash_Avoidance_Part_1_Accelerometer
 
 ### Assignment Description
+In this assignment we will use a accelerometer that continuously reports x, y, and z acceleration values on the serial monitor
+
 ### Evidence 
+![accelerometer gif-maker](https://user-images.githubusercontent.com/71345399/194617054-dd9229c5-7cfa-40aa-8ee4-476a507eb501.gif)
+
 ### Code
 Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201%20Accelerometer)
 
 ### Wiring
+![image](https://user-images.githubusercontent.com/71345399/194619536-8ed3aa70-5511-4aa4-a7f1-ff881d56304a.png)
+
 ### Reflection
+
 
 
 ## Crash_Avoidance_Part_2_Light_and_Powerboost
@@ -140,7 +138,9 @@ Here is the link of my code [Light and Powerboot](https://github.com/msadat50/En
 ### Code Here is the link of my code [OLED Screen](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crashavoidancepart3.pyr)
 
 ### Wiring
+
 ### Reflection
+This was the most confusing because 
 
 
 
