@@ -1,7 +1,7 @@
 import math
 def triangle_area(val1,val2,val3):
 
-    #try:
+    try:
         val1 = val1.split(",")
         val2 = val2.split(",")
         val3 = val3.split(",")
@@ -23,8 +23,8 @@ def triangle_area(val1,val2,val3):
         return area
 
 
-    #except:
-        print("area = 0")
+    except:
+        print("try again")
 
         area= 0
         return area
@@ -40,6 +40,17 @@ while True:
         continue
     else:
         print (area)
+    
+
+
+
+
+
+
+
+
+
+
     
 
 
