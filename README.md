@@ -155,7 +155,12 @@ This was easy because we had a code to start and I went back a forward to the la
 
 
 ### Assignment Description
-In the assignment 
+In the assignment The code must ask for the user to input a set of three coordinates in (x,y) format
+The triangle area must be determined using a function
+If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
+The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
+The code must return to the input stage after printing the area, and wait for user input.
+
 
 ### Evidence 
 
@@ -169,7 +174,8 @@ In the assignment
 
 
 ### Assignment Description
-In the assignment 
+In the assignment we are using a and on board OLED screen must plot each triangle on a graph relative to the base location
+
 ### Evidence 
 
 ![plotting gif](https://user-images.githubusercontent.com/71345399/197050066-5a90adcf-1acd-4073-b37d-7773c7b0a688.gif)
@@ -177,8 +183,10 @@ In the assignment
 ### Code Here is the link of my code [Landing Area Plotting](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Plotting)
 
 ### Wiring
-### Reflection
 
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
+### Reflection
+This was assignment was actual really easy because it was copying and pasting from the last 2 assignments we did.
 
 
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
