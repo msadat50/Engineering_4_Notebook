@@ -97,6 +97,7 @@ Here is the link of my code [Servo](https://github.com/msadat50/Engineering_4_No
 ### Wiring
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20Servo%20pic.jpg?raw=true" width="400">
 
+
 ### Reflection
 I didn't had any trouble doing this assignment, I jhust some typo in the code. 
 
@@ -116,35 +117,63 @@ Here is the link of my code [Accelerometer](https://github.com/msadat50/Engineer
 ![image](https://user-images.githubusercontent.com/71345399/194619536-8ed3aa70-5511-4aa4-a7f1-ff881d56304a.png)
 
 ### Reflection
-
+This assignment was confusing at first, but after Mr. Miller explain I knew what I need to do it was clear and easy. I had trouble with the distance of each line like the vaule that we were suppose to put it, so when that when it shows in the OLED screen it should be clear and speaced out. Mine was just all together, but Mr. Miller helped me figure it out
 
 
 ## Crash_Avoidance_Part_2_Light_and_Powerboost
 
 ### Assignment Description
+In this assignment we are trying to turn on a led when board is tilted to 90 degrees and it mast be powered by a mobile power source. 
+
 ### Evidence 
+https://user-images.githubusercontent.com/71345399/196504204-be4bb2b8-d1fa-4cb0-9aff-dd7cfb5ec9b1.mov
+
 ### Code
 Here is the link of my code [Light and Powerboot](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%202%20Light%20%2B%20Powerboost)
 
 ### Wiring
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/light%20and%20powerboot%20pic.jpg?raw=true" width="400">
+
 ### Reflection
+This assignment was hard because there wasn't any code to get you started, I was struggling through this assingment I didn't know what to do or how to do, bu than I said I will start with LED since we are trying to turn on an led. After I did I asked help from Mr. Miller then he explained what I need to do and he even helped me get started. 
 
-
-## Crash_Avoidance_Part_3_OLED_Screen
+## Crash_Avoidance_OLED_Screen
 
 ### Assignment Description
+In the assignment we must have an onboard screen that prints x, y, and z angular velocity values (rad/s) and need to be rounded to 3 decimal places
 ### Evidence 
 
 ### Code Here is the link of my code [OLED Screen](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crashavoidancepart3.pyr)
 
 ### Wiring
-
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
 ### Reflection
-This was the most confusing because 
+This was easy because we had a code to start and I went back a forward to the last assignment we did and pull some codes from there, but this time I had so many trouble with wiring I always had the write in the wrong place. Thanks to MR. Miller he helped me out.  
 
 
+## Landing_Area_Functions
 
 
+### Assignment Description
+In the assignment 
+### Evidence 
+
+### Code Here is the link of my code [Landing Area Function](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crashavoidancepart3.pyr(https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Functions)
+
+### Wiring
+### Reflection
+
+## Landing_Area_Plotting
+
+
+### Assignment Description
+In the assignment 
+### Evidence 
+
+### Code Here is the link of my code [Landing Area Plotting]
+
+### Wiring
+### Reflection
 
 
 
