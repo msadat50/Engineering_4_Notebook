@@ -156,11 +156,13 @@ This was easy because we had a code to start and I went back a forward to the la
 
 ### Assignment Description
 In the assignment 
+
 ### Evidence 
 
-### Code Here is the link of my code [Landing Area Function](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crashavoidancepart3.pyr(https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Functions)
+### Code Here is the link of my code [Landing Area Function](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Functions)
 
 ### Wiring
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
 ### Reflection
 
 ## Landing_Area_Plotting
@@ -170,7 +172,9 @@ In the assignment
 In the assignment 
 ### Evidence 
 
-### Code Here is the link of my code [Landing Area Plotting]
+![plotting gif](https://user-images.githubusercontent.com/71345399/197050066-5a90adcf-1acd-4073-b37d-7773c7b0a688.gif)
+
+### Code Here is the link of my code [Landing Area Plotting](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Plotting)
 
 ### Wiring
 ### Reflection
