@@ -1,0 +1,30 @@
+#type: ignore
+# Dictionary representing the morse code chart
+MORSE_CODE = { 'A':'.-', 'B':'-...',
+    'C':'-.-.', 'D':'-..', 'E':'.',
+    'F':'..-.', 'G':'--.', 'H':'....',
+    'I':'..', 'J':'.---', 'K':'-.-',
+    'L':'.-..', 'M':'--', 'N':'-.',
+    'O':'---', 'P':'.--.', 'Q':'--.-',
+    'R':'.-.', 'S':'...', 'T':'-',
+    'U':'..-', 'V':'...-', 'W':'.--',
+    'X':'-..-', 'Y':'-.--', 'Z':'--..',
+    '1':'.----', '2':'..---', '3':'...--',
+    '4':'....-', '5':'.....', '6':'-....',
+    '7':'--...', '8':'---..', '9':'----.',
+    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+    '?':'..--..', '/':'-..-.', '-':'-....-',
+    '(':'-.--.', ')':'-.--.-', ' ':'/'}
+
+while True:
+    try:
+        cat1 = input("Mouse Code set 1")  #input
+        cat1 = cat1. upper() #make things uppercase
+        apple = " " #total strings
+        for letter in cat1: # use MORSE_CODE[letter] here to translate from input into morse code
+            apple = apple + (MORSE_CODE[letter]) + " " #stacks letters
+        print(apple) #write it
+    except:
+        print("Error!")
+        print(f"{letter}, is the error")
+        # print(MORSE_CODE[letter],"this is working     
