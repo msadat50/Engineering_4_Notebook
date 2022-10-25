@@ -19,6 +19,9 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
 while True:
     try:
         cat1 = input("Mouse Code set 1")  #input
+        if cat1 == "-q":
+            break 
+        
         cat1 = cat1. upper() #make things uppercase
         apple = " " #total strings
         for letter in cat1: # use MORSE_CODE[letter] here to translate from input into morse code

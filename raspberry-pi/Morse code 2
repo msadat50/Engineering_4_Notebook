@@ -1,0 +1,67 @@
+#type: ignore
+# Dictionary representing the morse code chart
+import board
+import digitalio 
+import time
+modifier = 0.25
+dot_time = 1*modifier
+dash_time = 3*modifier
+between_taps = 1*modifier
+between_letters = 3*modifier
+between_words = 7*modifier
+
+MORSE_CODE = { 'A':'.-', 'B':'-...',
+    'C':'-.-.', 'D':'-..', 'E':'.',
+    'F':'..-.', 'G':'--.', 'H':'....',
+    'I':'..', 'J':'.---', 'K':'-.-',
+    'L':'.-..', 'M':'--', 'N':'-.',
+    'O':'---', 'P':'.--.', 'Q':'--.-',
+    'R':'.-.', 'S':'...', 'T':'-',
+    'U':'..-', 'V':'...-', 'W':'.--',
+    'X':'-..-', 'Y':'-.--', 'Z':'--..',
+    '1':'.----', '2':'..---', '3':'...--',
+    '4':'....-', '5':'.....', '6':'-....',
+    '7':'--...', '8':'---..', '9':'----.',
+    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+    '?':'..--..', '/':'-..-.', '-':'-....-',
+    '(':'-.--.', ')':'-.--.-', ' ':'/'}
+
+ledblue = digitalio.DigitalInOut(board.GP3)
+ledblue.direction = digitalio.Direction.OUTPUT 
+
+while True:
+    try:
+        cat1 = input("Mouse Code set 1")  #input
+        cat1 = cat1. upper() #make things uppercase
+        apple = " " #total strings
+        for letter in cat1: # use MORSE_CODE[letter] here to translate from input into morse code
+            apple = apple + (MORSE_CODE[letter]) + " " #stacks letters
+        print(apple) #write it
+        for character in apple:  #loop thru morse message
+            if character==".":
+                ledblue.value=True 
+                print ('dot!')
+                time.sleep(dot_time)
+                ledblue.value=False
+                time.sleep(dot_time)
+
+            if character=="-":
+                ledblue.value=True 
+                print ('dash!')
+                time.sleep(dash_time)
+                ledblue.value=False
+                time.sleep(dash_time)
+
+            if character=="/":
+                time.sleep(between_words)
+
+
+            if character== " ":
+                time.sleep(between_letters)
+    # if character is a dot, do a short blink
+    # if character is a dash, do a long blink
+    # if character is between letters, do a “between letters” pause
+    # if it's between words, do a “between words” pause
+    except:
+        print("Error!")
+        print(f"{letter}, is the error")
