@@ -24,7 +24,7 @@ In this assignment we're trying to make the raspberry Pi board LED bilnk.
 Here is the link of my code [board blinking code](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/LED_blink.py).
 
 ### Reflection
-This assignment was so super simple and easy. I had a little bit of trouble doing the while true loop, but Mr. Miller helped me do that. 
+This assignment was confusing at first because I didn't know how Pico works, after Mr. Miller explained it to me it made a lot of sense. I had a little bit of trouble doing the while true loop, but Mr. Miller helped me do that. Overall it was super easy and simple.
 
 
 ## Launch_Pad_Part_1_Countdown
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/71345399/191816319-344fd81f-a5a2-4d6d-
 Here is the link of my code [countdown](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/countdown)
 
 ### Reflection
-This assingment was confusing because in other assignment there was example code, so that would help you do this assignment. In this assignment we did research and Mr. Miller helped me figure it out.  
+This assingment was confusing because in other assignment there was example code, so that would help you do this assignment. In this assignment I did research on how to use a for loop. I had trouble with the countdown where it was printing from 1-10 instead of of 10-0, but Mr. Miller helped me figure it out.  
 
 
 
@@ -61,7 +61,7 @@ Here is the link of my code [countdown](https://github.com/msadat50/Engineering_
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20LED's%20pic.jpg?raw=true" width="400">
 
 ### Reflection
-This assignment was not as confusing as the first one because there was visuals that helped me understand it.Still I had trouble doing with the visual app which made it hard for me to do the assignment,but Mr. Miller helped me out.Other then that everything else was good. 
+This assignment was not as confusing as the first one because there was visuals that helped me understand it.Still I had trouble doing with the visual app which made it hard for me to do the assignment,but Mr. Miller helped me out. Other then that everything else was good. 
 
 
 ## Launch_Pad_Part_3_"Button"
@@ -79,7 +79,7 @@ Here is the link of my code [Button](https://github.com/msadat50/Engineering_4_N
 ### Wiring
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/Launch%20Pad%20Button%20pic.jpg?raw=true" width="400">
 ### Reflection
-This assignment was super easy. All I had to do is copy and paste, the only thing that made me confuse was the wiring for button, I wasn't sure if I need to witing the button using a pin. 
+This assignment was easy. All I had to do is copy and paste the code that was given to us. The only thing that made me confuse was the wiring for button, I wasn't sure if I need to witing the button using a pin. 
 
 
 ## Launch_Pad_Part_4_"Servo"
@@ -99,7 +99,7 @@ Here is the link of my code [Servo](https://github.com/msadat50/Engineering_4_No
 
 
 ### Reflection
-I didn't had any trouble doing this assignment, I jhust some typo in the code. 
+I didn't had any trouble doing this assignment. I just had some typo in the code, but Mr. Miller helped me fix it. Everything was easy and I got very happy when I got the assginment done. 
 
 
 ## Crash_Avoidance_Part_1_Accelerometer
@@ -135,7 +135,7 @@ Here is the link of my code [Light and Powerboot](https://github.com/msadat50/En
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/light%20and%20powerboot%20pic.jpg?raw=true" width="400">
 
 ### Reflection
-This assignment was hard because there wasn't any code to get you started, I was struggling through this assingment I didn't know what to do or how to do, bu than I said I will start with LED since we are trying to turn on an led. After I did I asked help from Mr. Miller then he explained what I need to do and he even helped me get started. 
+This assignment was hard because there wasn't any code to get you started. I was struggling through this assingment and I didn't know what to do or how to do, but than I said I will start with LED since we are trying to turn on an led. After I did I asked help from Mr. Miller then he explained what I need to do and he even helped me get started. 
 
 ## Crash_Avoidance_OLED_Screen
 
@@ -148,10 +148,12 @@ In the assignment we must have an onboard screen that prints x, y, and z angular
 ### Wiring
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
 ### Reflection
-This was easy because we had a code to start and I went back a forward to the last assignment we did and pull some codes from there, but this time I had so many trouble with wiring I always had the write in the wrong place. Thanks to MR. Miller he helped me out.  
+This was easy because we had a code to start with.I went back and forward to the last assignment we did and pull some codes from there, but this time I had so many trouble with wiring. I always had the write in the wrong place, but thanks to MR. Miller he helped me out.  
 
 
 ## Landing_Area_Functions
+In this assignment we're trying to a set of three coordinates in (x,y). format the triangle area must be determined using a function
+If the user inputs coordinates incorrectly (letters or improper format) than the code should return to the input stage. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km and than the code must return to the input stage after printing the area, and wait for user input.
 
 
 ### Assignment Description
@@ -163,12 +165,15 @@ The code must return to the input stage after printing the area, and wait for us
 
 
 ### Evidence 
+https://user-images.githubusercontent.com/71345399/197850067-59182735-dd74-433d-915f-8ebdd99366e4.mov
 
 ### Code Here is the link of my code [Landing Area Function](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Functions)
 
 ### Wiring
-<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
+<img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                         
+
 ### Reflection
+
 
 ## Landing_Area_Plotting
 
