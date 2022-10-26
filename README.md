@@ -141,7 +141,9 @@ This assignment was hard because there wasn't any code to get you started. I was
 
 ### Assignment Description
 In the assignment we must have an onboard screen that prints x, y, and z angular velocity values (rad/s) and need to be rounded to 3 decimal places
+
 ### Evidence 
+https://user-images.githubusercontent.com/71345399/196504204-be4bb2b8-d1fa-4cb0-9aff-dd7cfb5ec9b1.mov
 
 ### Code Here is the link of my code [OLED Screen](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Crashavoidancepart3.pyr)
 
