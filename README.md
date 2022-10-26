@@ -152,17 +152,10 @@ This was easy because we had a code to start with.I went back and forward to the
 
 
 ## Landing_Area_Functions
-In this assignment we're trying to a set of three coordinates in (x,y). format the triangle area must be determined using a function
-If the user inputs coordinates incorrectly (letters or improper format) than the code should return to the input stage. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km and than the code must return to the input stage after printing the area, and wait for user input.
-
 
 ### Assignment Description
-In the assignment The code must ask for the user to input a set of three coordinates in (x,y) format
-The triangle area must be determined using a function
-If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
-The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
-The code must return to the input stage after printing the area, and wait for user input.
-
+In this assignment we're trying to a set of three coordinates in (x,y). format the triangle area must be determined using a function
+If the user inputs coordinates incorrectly (letters or improper format) than the code should return to the input stage. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km and than the code must return to the input stage after printing the area, and wait for user input.
 
 ### Evidence 
 https://user-images.githubusercontent.com/71345399/197850067-59182735-dd74-433d-915f-8ebdd99366e4.mov
@@ -173,13 +166,13 @@ https://user-images.githubusercontent.com/71345399/197850067-59182735-dd74-433d-
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                         
 
 ### Reflection
-
+This assignment was really confusing. In this assignment I learned how to use functions. I had trouble incorporating math into my code because I didn't know how to use functions. Ellen's github page also helped me understand the code needs to be done. 
 
 ## Landing_Area_Plotting
 
 
 ### Assignment Description
-In the assignment we are using a and on board OLED screen must plot each triangle on a graph relative to the base location
+In the assignment we are using an OLED screen that must plot each triangle on a graph relative to the base location
 
 ### Evidence 
 
@@ -191,10 +184,43 @@ In the assignment we are using a and on board OLED screen must plot each triangl
 
 <img src="https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/OLED%20pic.png?raw=true" width="400">                                                                                                                         
 ### Reflection
-This was assignment was actual really easy because it was copying and pasting from the last 2 assignments we did.
+This assignment was actual really easy because it was copying and pasting from the last 2 assignments we did. The only trouble that I has was not know how to locate the triangle and I didn't know how to write the area of a triangle, but thanks to Ellen Lynch her github helped me understand how to write the equation of a triangle. After writing the area I still had trouble because the triangle wasn't coming up in the screen, but thanks to Mr. Miller he helped me get it done. 
 
 
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+
+### Morse_code_one 
+
+### Assignment Description
+In this assignment we are try to get the translation of the text to flash the LED
+
+### Evidence 
+https://user-images.githubusercontent.com/71345399/198104466-9849679f-12d4-4908-8bd5-fb3754614d0c.mov
+
+### Code Here is the link of my code [Morse code one](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Morse%20Code%201)
+
+### Reflection
+The assignemnt was super hard because it was my first time doing morse code. I didn't know how to start or how to do it. The in the code was problem was that it wasn't printing the erro in English fianlly Mr. H helped me do it.  
+
+### Morse_code_two
+
+### Assignment Description
+In this assignment we are trying to get the script to flash an LED to transmit the morse code message using the timing sequence
+
+### Evidence 
+
+https://user-images.githubusercontent.com/71345399/198104721-24496aa8-89ba-49d0-b8c3-9e81487c4600.mov
+
+### Code Here is the link of my code [Morse code two](https://github.com/msadat50/Engineering_4_Notebook/blob/main/raspberry-pi/Morse%20code%202)
+
+### Wiring
+
+![code 2](https://user-images.githubusercontent.com/71345399/198099213-4e9ffbe0-3284-40b9-a6d2-0d836467acdf.png)
+
+
+### Reflection
+The 2nd assignment was really easy because I just copy and paste the code from morse code 1. All I need to put was the LED code and that was it. I really enjoed doing this assignment. 
 
 &nbsp;
 
