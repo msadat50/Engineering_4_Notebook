@@ -228,21 +228,21 @@ The 2nd assignment was really easy because I just copy and paste the code from m
 
 ## Onshape_Assignment_Template
 
-### Assignment Description
+### FEA part 3
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+### Assignment Description
+The purpose of this assignment was to improve the maximum weight the beam can hold before bending or breaking. 
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[our final beam design](https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b?renderMode=0&uiState=636bfbf8141932307e32c428) 
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![beam 4](https://user-images.githubusercontent.com/71345399/200921040-b4f86386-15b7-47fb-87c2-0ece7d26e5d7.png)
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+Our original design was weak at the base and we made it strong by adding more materials at the base. After running it through the Simulation the red spot improved. We still had some materials left, so we decide to make the base a little bit thicker. After we did that it was much better and we liked it.
 
 &nbsp;
 
