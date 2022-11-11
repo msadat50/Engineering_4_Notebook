@@ -228,6 +228,43 @@ The 2nd assignment was really easy because I just copy and paste the code from m
 
 ## Onshape_Assignment_Template
 
+# Beam Part 1
+
+### Assignment Description
+
+Design a beam with the goal of maximizing weight beofre failure. it cannot bend more than 35mm.
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b?aa=true
+
+### Part Image
+
+![Design for beam 1](images/Beam1.PNG) 
+### Reflection
+
+We decided that a vertical beam would much much stronger. We reduced weight by chamfering the end where the bucket would be attached. We cut a hole in the beam near the end to reduce weight and since its near the downward force the stress would be less.
+
+
+## Beam Part 2
+
+### Assignment Description
+
+Run one static finite element analysis on your beam to determine what areas need to be improved.
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/74dd8de3097cb51ce76834c9
+
+### Part Image
+
+![Design for beam 2](https://github.com/Graham913/Engineering_4_Notebook/blob/main/images/beam%20project%20.png) 
+
+### Reflection
+
+After running the simulation we determined that the place of most stressed was close to where the base of the beam is. We managed to chamfer off a little more from the other end of them beam and added supported on each side. Putting holes in the beam near where the bucket is held doesnt take off much stress but takes off weight. 
+
+
 ### FEA part 3
 
 ### Assignment Description
