@@ -236,11 +236,12 @@ Design a beam with the goal of maximizing weight beofre failure. it cannot bend 
 
 ### Part Link 
 
-https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b?aa=true
+[Onshape](https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b?aa=true)
 
 ### Part Image
 
-![Design for beam 1](images/Beam1.PNG) 
+![beam 1](https://user-images.githubusercontent.com/71345399/201408002-aa41a922-d901-49d0-9929-48a9876e8098.png)
+
 ### Reflection
 
 We decided that a vertical beam would much much stronger. We reduced weight by chamfering the end where the bucket would be attached. We cut a hole in the beam near the end to reduce weight and since its near the downward force the stress would be less.
@@ -254,7 +255,7 @@ Run one static finite element analysis on your beam to determine what areas need
 
 ### Part Link 
 
-https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/74dd8de3097cb51ce76834c9
+[beam in onshape](https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/74dd8de3097cb51ce76834c9)
 
 ### Part Image
 
