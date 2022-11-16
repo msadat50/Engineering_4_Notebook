@@ -282,6 +282,19 @@ The purpose of this assignment was to improve the maximum weight the beam can ho
 ### Reflection
 Our original design was weak at the base and we made it strong by adding more materials at the base. After running it through the Simulation the red spot improved. We still had some materials left, so we decide to make the base a little bit thicker. After we did that it was much better and we liked it.
 
+### 
+
+### Assignment Description
+
+### Part Link 
+
+[our final beam design]() 
+
+### Part Image
+
+
+### Reflection
+
 &nbsp;
 
 ## Media Test
