@@ -282,18 +282,33 @@ The purpose of this assignment was to improve the maximum weight the beam can ho
 ### Reflection
 Our original design was weak at the base and we made it strong by adding more materials at the base. After running it through the Simulation the red spot improved. We still had some materials left, so we decide to make the base a little bit thicker. After we did that it was much better and we liked it.
 
-### 
+### 4.1 Ring and spinner 
 
 ### Assignment Description
+In this assignment I designed the ring. You put it in you fingure, it's like a toy. Hope designed the spinner. 
 
 ### Part Link 
-
-[our final beam design]() 
+[key design](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/9f1ab6f8c7aef7908e7f981c) 
 
 ### Part Image
-
+![key](https://user-images.githubusercontent.com/71345399/202535287-05cd0a3b-ce4e-40cb-996b-b3fa80496771.png)
 
 ### Reflection
+This assignment was super easy, I really enjoyed doing this. The videos that was in the instructions really helpded me because I could see how it was done. 
+
+### 4.2 Key and Prop 
+
+### Assignment Description
+In this assignment I designed the Key.You put the key into the blue top, it's like a toy. Hope designed the spinner. 
+
+### Part Link 
+[Ring design](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/9f1ab6f8c7aef7908e7f981c) 
+
+### Part Image
+![ring](https://user-images.githubusercontent.com/71345399/202533355-f3b9e6d3-3ef9-4e3e-ab2c-d68135bf8adb.png)
+
+### Reflection
+This assignment was super easy, I really enjoyed doing this. The videos that was in the instructions really helpded me because I could see how it was done. I also learned how to use the Linear pattern
 
 &nbsp;
 
