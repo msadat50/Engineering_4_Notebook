@@ -299,7 +299,7 @@ This assignment was super easy, I really enjoyed doing this. The videos that was
 ### 4.2 Key and Prop 
 
 ### Assignment Description
-In this assignment I designed the Key.You put the key into the blue top, it's like a toy. Hope designed the spinner. 
+In this assignment I designed the Key.You put the key into the blue top, it's like a toy. Hope designed the spinner, this was a good practice for me because I haven't done CAD in so long. Me and Hope had so much fun doing the assignment. 
 
 ### Part Link 
 [Ring design](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/9f1ab6f8c7aef7908e7f981c) 
@@ -308,7 +308,7 @@ In this assignment I designed the Key.You put the key into the blue top, it's li
 ![ring](https://user-images.githubusercontent.com/71345399/202533355-f3b9e6d3-3ef9-4e3e-ab2c-d68135bf8adb.png)
 
 ### Reflection
-This assignment was super easy, I really enjoyed doing this. The videos that was in the instructions really helpded me because I could see how it was done. I also learned how to use the Linear pattern
+This assignment was super easy. I had fun working with Hope, when we had trouble doing something we asked eachother first, than we would ask Mr. Miller. I really enjoyed doing this. The videos that was in the instructions really helpded me because I could see how it was done. I also learned how to use the Linear pattern.
 
 &nbsp;
 
