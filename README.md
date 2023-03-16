@@ -310,17 +310,17 @@ In this assignment I designed the Key.You put the key into the blue top, it's li
 ### Reflection
 This assignment was super easy. I had fun working with Hope, when we had trouble doing something we asked eachother first, than we would ask Mr. Miller. I really enjoyed doing this. The videos that was in the instructions really helpded me because I could see how it was done. I also learned how to use the Linear pattern.
 
-&nbsp;
 
-## Media Test
+### final assembly 
 
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!  
+### Part Link 
+[Final assembly](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/9f1ab6f8c7aef7908e7f981c) 
 
-### Test Link
-[Hyperlink text](http://www.google.com)      
+### Part Image
+![Assembly](https://user-images.githubusercontent.com/71345399/225710737-b6d03c01-938a-4cc5-80d2-946760773a68.png)
 
-### Test Image
- ![Picture Name Here](images/bunny%20pic.jfif)  
+### Reflection
+Me and Hope had so much fun doing the assignment. We both assembled different parts. Usig the Rack and pinion tool was really interestin I never thought Onshape had that tool. 
 
 ### Test GIF
 [funny cat](https://github.com/msadat50/Engineering_4_Notebook/blob/main/images/funny%20cat.gif?raw=true) 
